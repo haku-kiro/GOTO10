@@ -1,0 +1,10 @@
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\bin\Debug\thatThingForm.exe.config
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\bin\Debug\thatThingForm.exe
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\bin\Debug\thatThingForm.pdb
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.csprojAssemblyReference.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.Form1.resources
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.Properties.Resources.resources
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.csproj.GenerateResource.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.csproj.CoreCompileInputs.cache
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.exe
+C:\Users\mdjco\Documents\Visual Studio 2017\Projects\thatThingForm\thatThingForm\obj\Debug\thatThingForm.pdb
